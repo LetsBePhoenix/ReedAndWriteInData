@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ReedAndWriteInData/1.0.0": {
+        "runtime": {
+          "ReedAndWriteInData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReedAndWriteInData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\fbrinke\Documents\GitHub\ReedAndWriteInData\bin\Debug\net6.0\ReedAndWriteInData.exe
+C:\Users\fbrinke\Documents\GitHub\ReedAndWriteInData\bin\Debug\net6.0\ReedAndWriteInData.deps.json
+C:\Users\fbrinke\Documents\GitHub\ReedAndWriteInData\bin\Debug\net6.0\ReedAndWriteInData.runtimeconfig.json
+C:\Users\fbrinke\Documents\GitHub\ReedAndWriteInData\bin\Debug\net6.0\ReedAndWriteInData.dll
+C:\Users\fbrinke\Documents\GitHub\ReedAndWriteInData\bin\Debug\net6.0\ReedAndWriteInData.pdb
+C:\Users\fbrinke\Documents\GitHub\ReedAndWriteInData\obj\Debug\net6.0\ReedAndWriteInData.csproj.AssemblyReference.cache
+C:\Users\fbrinke\Documents\GitHub\ReedAndWriteInData\obj\Debug\net6.0\ReedAndWriteInData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbrinke\Documents\GitHub\ReedAndWriteInData\obj\Debug\net6.0\ReedAndWriteInData.AssemblyInfoInputs.cache
+C:\Users\fbrinke\Documents\GitHub\ReedAndWriteInData\obj\Debug\net6.0\ReedAndWriteInData.AssemblyInfo.cs
+C:\Users\fbrinke\Documents\GitHub\ReedAndWriteInData\obj\Debug\net6.0\ReedAndWriteInData.csproj.CoreCompileInputs.cache
+C:\Users\fbrinke\Documents\GitHub\ReedAndWriteInData\obj\Debug\net6.0\ReedAndWriteInData.dll
+C:\Users\fbrinke\Documents\GitHub\ReedAndWriteInData\obj\Debug\net6.0\refint\ReedAndWriteInData.dll
+C:\Users\fbrinke\Documents\GitHub\ReedAndWriteInData\obj\Debug\net6.0\ReedAndWriteInData.pdb
+C:\Users\fbrinke\Documents\GitHub\ReedAndWriteInData\obj\Debug\net6.0\ReedAndWriteInData.genruntimeconfig.cache
+C:\Users\fbrinke\Documents\GitHub\ReedAndWriteInData\obj\Debug\net6.0\ref\ReedAndWriteInData.dll
